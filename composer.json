@@ -1,0 +1,13 @@
+{
+    "name": "jagdanju/dynamic-file-importer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel Julius",
+            "email": "daniel.julius@posteo.de"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
